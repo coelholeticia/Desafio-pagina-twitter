@@ -6,4 +6,8 @@ O desafio composto por Html, Css e Javascript.
 
 O projeto é um clone dá pagina de twitter.
 
+-Posição de raking do desafio 21. de 14.603 inscrito.
+
+
+
 
